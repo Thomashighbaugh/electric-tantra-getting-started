@@ -1,0 +1,64 @@
+:root {
+  --cover-color: #fefefe;
+  --cover-margin: 0 auto;
+  --cover-max-width: 40em;
+  --cover-text-align: center;
+
+  /* Background */
+  --cover-background-color: #0e121a;
+  --cover-background-image: url("images/12.jpg");
+  --cover-background-mask-opacity: 0.5;
+  --cover-background-position: cover;
+  --cover-background-repeat: auto;
+  --cover-background-size: cover;
+
+  /* Blockquote (Subtitle) */
+  --cover-blockquote-font-size: var(--font-size-l);
+
+  /* Buttons */
+  --cover-button-background: #0e121a;
+  --cover-button-background--hover: #0e121a;
+  --cover-button-border: 1px solid var(--theme-color);
+
+  --cover-button-border-radius: var(--border-radius-m);
+  --cover-button-box-shadow: #556;
+  --cover-button-box-shadow--hover: #556;
+  --cover-button-color: #fefefe;
+  --cover-button-color--hover: #44ddff;
+  --cover-button-padding: 1rem;
+  --cover-button-text-decoration: none;
+  --cover-button-text-decoration--hover: #44ddff;
+  --cover-button-text-decoration-color: #fefefe;
+  --cover-button-text-decoration-color--hover: #44ddff;
+  --cover-button-transition: all var(--duration-fast) ease-in-out;
+
+  /* Buttons - Primary */
+  --cover-button-primary-background: #44ddff;
+  --cover-button-primary-background--hover: #44ddff;
+  --cover-button-primary-border: 0 solid var(--theme-color);
+  --cover-button-primary-box-shadow: #556;
+  --cover-button-primary-box-shadow--hover: #556;
+  --cover-button-primary-color: #fefefe;
+  --cover-button-primary-color--hover: #44ddff;
+  --cover-button-primary-text-decoration: #fefefe;
+  --cover-button-primary-text-decoration--hover: #44ddff;
+  --cover-button-primary-text-decoration-color: #fefefe;
+  --cover-button-primary-text-decoration-color--hover: #44ddff;
+
+  /* Heading */
+  --cover-heading-color: var(--theme-color);
+  --cover-heading-font-size: var(--font-size-xxl);
+  --cover-heading-font-size-min: 2rem;
+  --cover-heading-font-size-max: 5rem;
+  --cover-heading-font-weight: normal;
+
+  /* Links */
+  --cover-link-border-bottom: solid #fefefe 0.25rem;
+  --cover-link-border-bottom--hover: solid #44ddff 0.25rem;
+  --cover-link-color: solid #fefefe 0.25rem;
+  --cover-link-color--hover: solid #44ddff 0.25rem;
+  --cover-link-text-decoration: none;
+  --cover-link-text-decoration--hover: underline;
+  --cover-link-text-decoration-color: underline;
+  --cover-link-text-decoration-color--hover: underline;
+}

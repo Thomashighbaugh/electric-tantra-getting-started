@@ -1,0 +1,40 @@
+:root {
+  /* Menus */
+  --navbar-menu-background: var(--base-background-color);
+  --navbar-menu-transition: all var(--duration-fast);
+
+  /* Menu Root */
+  --navbar-menu-root-background: #0e121a;
+  --navbar-menu-root-background--active: #0e121a;
+  --navbar-menu-root-background--hover: #0e121a;
+
+  /* Menu Links */
+  --navbar-menu-link-background: #0e121a;
+  --navbar-menu-link-background--active: #0e121a;
+  --navbar-menu-link-background--hover: #0e121a;
+  --navbar-menu-link-border-color: #fefefe;
+  --navbar-menu-link-border-color--active: #44ddff;
+  --navbar-menu-link-border-color--hover: #44ddff;
+  --navbar-menu-link-border-radius: 12px;
+  --navbar-menu-link-border-style: solid;
+  --navbar-menu-link-border-style--active: solid;
+  --navbar-menu-link-border-style--hover: solid;
+  --navbar-menu-link-color: #fefefe;
+  --navbar-menu-link-color--active: #44ddff;
+  --navbar-menu-link-color--hover: #44ddff;
+  --navbar-menu-link-padding: 1rem;
+  --navbar-menu-link-text-decoration: none;
+  --navbar-menu-link-text-decoration--active: underline;
+  --navbar-menu-link-text-decoration--hover: underline;
+  --navbar-menu-link-text-decoration-color: #fefefe;
+  --navbar-menu-link-text-decoration-color--active: #44ddff;
+  --navbar-menu-link-text-decoration-color--hover: #44ddff;
+
+  /* Root */
+  --navbar-root-background: #0e121a;
+  --navbar-root-background--active: #0e121a;
+  --navbar-root-background--hover: #0e121a;
+  --navbar-root-border-color: #fefefe;
+  --navbar-root-border-color--active: #44ddff;
+  --navbar-root-border-color--hover: #44ddff;
+}

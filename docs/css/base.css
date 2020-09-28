@@ -1,0 +1,9 @@
+:root {
+  /* Reduce the font size */
+  --base-font-size: 11px;
+  --base-background-color: #0e121a;
+  --theme-color: #44ddff;
+  --duration-slow: 2s;
+  --duration-medium: 1s;
+  --duration-fast: 0.5s;
+}
